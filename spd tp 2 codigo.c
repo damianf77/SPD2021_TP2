@@ -1,4 +1,5 @@
 //SPD TP2, FIGUEROA Y FERNANDEZ
+//https://www.tinkercad.com/things/i8wMVQ0QViK-spd-tp2-final
 
 #include<LiquidCrystal.h>
 #include<Servo.h>
